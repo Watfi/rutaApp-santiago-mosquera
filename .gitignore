@@ -1,0 +1,22 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config (ruta del SDK, no subir)
+local.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Notas personales (no subir)
+GUIA_DE_CAMBIOS.md
