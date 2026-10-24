@@ -12,7 +12,7 @@ Lee `Guia_Estudiante_01.docx` antes de modificar código.
 
 # MiRutaApp · MOV1-01
 
-**Nombre:** __________  **Fecha:** __________
+**Nombre:** Santiago Mosquera  **Fecha:** 23/10/2026
 
 ## Uso
 1. Abrir la carpeta del proyecto en Android Studio, con JDK 17 y SDK Android 35 instalados.
